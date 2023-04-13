@@ -1,0 +1,25 @@
++ python3 /var/lib/jenkins/workspace/test_job/python/datashare_replace.py sc-ods-consumer-preprod.cu0vxpnv4ex9.us-gov-east-1.redshift.amazonaws.com sc_geaodst01 5439 dataengineering_su ******** 686136d0820dc24ea976b8d67f30db0f058a02fc
+/usr/local/lib64/python3.6/site-packages/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+  """)
+['./SQL/ods_git/procedures/sc_ods_EVNJDEQ1.sql', './python/datashare_replace.py']
+{'./SQL/ods_git/procedures/sc_ods_EVNJDEQ1.sql'}
+file_name:./SQL/ods_git/procedures/sc_ods_EVNJDEQ1.sql
+entered into datashare replace
+{'sc_ods_evncpaq1': 'sc_ods_evncpap1', 'sc_ods_evnecoq1': 'sc_ods_evnecop1', 'sc_ods_atpoltq8': 'sc_ods_atpoltp8', 'sc_ods_arpsysq1': 'sc_ods_arpsysp1', 'sc_ods_usnerpq1': 'sc_ods_usnerpp1', 'sc_ods_sci1': 'sc_ods_scp1', 'sc_ods_EVNJDEQ1': 'sc_ods_evnjdep1', 'sc_ods_evncpaq1_hvr': 'sc_ods_evncpap1', 'sc_ods_orceboq1': 'sc_ods_evnodsp1', 'sc_ods_kronos_v8_qa': 'sc_ods_kronos_p01', 'sc_ods_axnclq01': 'sc_ods_axnclp01', 'sc_ods_wfmls': 'sc_ods_wfmlp', 'sc_ods_mytime_q01': '', 'sc_ods_evnapsq1': 'sc_ods_evnapsp1', 'sc_ods_angdwp01': 'sc_ods_angdwp01'}
+datashare_name :- sc_ods_evncpaq1
+datashare_name :- sc_ods_evnecoq1
+datashare_name :- sc_ods_atpoltq8
+datashare_name :- sc_ods_arpsysq1
+datashare_name :- sc_ods_usnerpq1
+datashare_name :- sc_ods_sci1
+datashare_name :- sc_ods_EVNJDEQ1
+datashare_name :- sc_ods_evncpaq1_hvr
+datashare_name :- sc_ods_orceboq1
+datashare_name :- sc_ods_kronos_v8_qa
+datashare_name :- sc_ods_axnclq01
+datashare_name :- sc_ods_wfmls
+datashare_name :- sc_ods_mytime_q01
+datashare_name :- sc_ods_evnapsq1
+datashare_name :- sc_ods_angdwp01
+done
+Done
